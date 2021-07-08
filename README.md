@@ -1,6 +1,5 @@
 # Approaching (Almost) Any Natural Language Processing Problem
 
-
 Contents:
 - The obvious intro to NLP
 - Bag of words
@@ -21,3 +20,6 @@ Contents:
 - Entity extraction using transformer based models
 - Text summarization
 - Various assignments and projects
+
+
+Missing something? Have a wish? Create an issue and let me know :) 
